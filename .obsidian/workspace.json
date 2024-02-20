@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "384967260a7962da",
+    "type": "split",
+    "children": [
+      {
+        "id": "be9a8afb0eaef75b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e4b104b187e5013",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e9dcc14f58ca541",
+    "type": "split",
+    "children": [
+      {
+        "id": "edca3a7b0600db4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167637fdbdb7ae5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05cecba0e8e9ad14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b164b7caee64bbd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0994be344aa1a2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a8b6f734cf552f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a095ba7f2e9ba66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "243b848698a82ce8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3528dcd353e97268",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a7fe2ad323e96dcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "167637fdbdb7ae5a",
+  "lastOpenFiles": [
+    "hyerin/Welcome.md",
+    "hyerin",
+    "프로젝트/벌렁/images/화면.png",
+    "프로젝트/벌렁/images/클론코딩.png",
+    "프로젝트/벌렁/images/중간점검! 2119(화).png",
+    "프로젝트/벌렁/images/중간점검! 2119(화)-2.png",
+    "프로젝트/벌렁/images/중간점검! 2119(화)-1.png",
+    "프로젝트/벌렁/images/새로운 메모-10.png",
+    "프로젝트/벌렁/images/벌렁 2차.png",
+    "프로젝트/벌렁/images/Bard.png",
+    "프로젝트/벌렁/images/벌렁 2차-1.png",
+    "프로젝트/벌렁/images/Bard-2.png",
+    "프로젝트/벌렁/화면.md",
+    "프로젝트/벌렁/클론코딩.md",
+    "프로젝트/벌렁/중간점검! 2119(화).md",
+    "프로젝트/벌렁/새로운 메모.md",
+    "프로젝트/벌렁/벌렁 2차.md",
+    "프로젝트/벌렁/import React,{ useState, useEffect } from 'react'.md",
+    "프로젝트/벌렁/images",
+    "프로젝트/벌렁/attachments",
+    "프로젝트/벌렁/Bard.md",
+    "프로젝트/벌렁/API.md",
+    "프로젝트/벌렁/1- 프로젝트 구조 설정.md",
+    "프로젝트/벌렁/1- 요구사항 정의.md",
+    "프로젝트/벌렁/- 요구사항 정의.md",
+    "프로젝트/벌렁/1- App-js.md",
+    "프로젝트/벌렁/- 회원가입 기능 구현.md",
+    "프로젝트/벌렁/- 요구사항 정의-1.md",
+    "프로젝트/벌렁/- 궁금한 내용!.md",
+    "프로젝트/벌렁",
+    "프로젝트",
+    "리액트 네이티브",
+    "리액트",
+    "Test.md",
+    "Test 3.md",
+    "Test 2.md",
+    "무제 파일.md",
+    "무제 폴더",
+    "hyerin/Untitled.md",
+    "hyerin/Untitled 1.md",
+    "리액트 네이티브/images",
+    "리액트 네이티브/Expo로 생성한 앱 구조.md",
+    "리액트 네이티브/ch 2-13- Input Form 생성하기-.md",
+    "리액트 네이티브/attachments",
+    "리액트 네이티브/리액트 네이티브에서의 Flexbox.md"
+  ]
+}

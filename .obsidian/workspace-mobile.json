@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "3ba79e3198856a48",
+    "type": "split",
+    "children": [
+      {
+        "id": "113c6c1aec1f602d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe06eee5e4221f1e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81a96dbee5ec0c91",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c8d28074c7d34425",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "321fe485e0fba722",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c7c8509f880074e1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2ef5b4407ee540ef",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b91505a2c121b3ea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c5faaacbd39d6260",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f4d58161e68ce49f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bc523399fc4ea154",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "fe06eee5e4221f1e",
+  "lastOpenFiles": [
+    "Test.md",
+    "Test 2.md",
+    "무제 폴더",
+    "프로젝트/벌렁/images/Bard.png",
+    "프로젝트/벌렁/images/중간점검! 2119(화)-1.png",
+    "프로젝트/벌렁/images/- 요구사항 정의-1-3.png",
+    "리액트 네이티브/images/2-14- Todo Item 생성하기-1.png",
+    "리액트 네이티브/images/Expo로 생성한 앱 구조-1.png",
+    "리액트 네이티브/images/1- 리덕스란-.png",
+    "리액트 네이티브/images/215- React Native에서 SVG 사용하기.png",
+    "리액트 네이티브/images/1- 리덕스란--1.png",
+    "리액트 네이티브/images/리액트 네이티브에서의 Flexbox.png",
+    "리액트 네이티브/images/ch 2-13- Input Form 생성하기-.png",
+    "프로젝트/벌렁/- 궁금한 내용!.md",
+    "프로젝트/벌렁/새로운 메모.md",
+    "프로젝트/벌렁/1- App-js.md",
+    "프로젝트/벌렁/중간점검! 2119(화).md",
+    "프로젝트/벌렁/1- 요구사항 정의.md",
+    "프로젝트/벌렁/- 요구사항 정의.md",
+    "프로젝트/벌렁/1- 프로젝트 구조 설정.md",
+    "프로젝트/벌렁/- 회원가입 기능 구현.md",
+    "프로젝트/벌렁/Bard.md",
+    "프로젝트/벌렁/- 요구사항 정의-1.md",
+    "프로젝트/벌렁/클론코딩.md",
+    "프로젝트/벌렁/API.md",
+    "프로젝트/벌렁/화면.md",
+    "프로젝트/벌렁/벌렁 2차.md",
+    "프로젝트/벌렁/import React,{ useState, useEffect } from 'react'.md",
+    "리액트 네이티브/리액트 & 리액트 네이티브 공부 계획!.md",
+    "리액트 네이티브/1- 리덕스란--1.md",
+    "hyerin/Welcome.md",
+    "리액트 네이티브/2-14- Todo Item 생성하기.md",
+    "리액트 네이티브/215- React Native에서 SVG 사용하기.md",
+    "리액트 네이티브/1- 리덕스란-.md",
+    "리액트 네이티브/Expo로 생성한 앱 구조.md",
+    "리액트 네이티브/리액트 네이티브에서의 Flexbox.md",
+    "리액트 네이티브/ch 2-13- Input Form 생성하기-.md",
+    "리액트 네이티브/attachments",
+    "리액트 네이티브/images",
+    "리액트 네이티브",
+    "프로젝트/벌렁/attachments",
+    "프로젝트/벌렁/images",
+    "프로젝트/벌렁",
+    "프로젝트",
+    "hyerin",
+    "리액트"
+  ]
+}

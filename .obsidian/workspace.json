@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f0994be344aa1a2f",
@@ -140,6 +140,9 @@
   },
   "active": "167637fdbdb7ae5a",
   "lastOpenFiles": [
+    "Todo.md",
+    "무제 파일.md",
+    "hyerin/Test.md",
     "hyerin/Welcome.md",
     "hyerin",
     "프로젝트/벌렁/images/화면.png",
@@ -176,14 +179,12 @@
     "Test.md",
     "Test 3.md",
     "Test 2.md",
-    "무제 파일.md",
     "무제 폴더",
     "hyerin/Untitled.md",
     "hyerin/Untitled 1.md",
     "리액트 네이티브/images",
     "리액트 네이티브/Expo로 생성한 앱 구조.md",
     "리액트 네이티브/ch 2-13- Input Form 생성하기-.md",
-    "리액트 네이티브/attachments",
-    "리액트 네이티브/리액트 네이티브에서의 Flexbox.md"
+    "리액트 네이티브/attachments"
   ]
 }
